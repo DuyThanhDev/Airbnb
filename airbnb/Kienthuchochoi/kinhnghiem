@@ -1,0 +1,7 @@
+Kinh nghiệm
+z-10: giúp phần tử nổi lên trên các phần tử khác có z-index thấp hơn.
+py-4: thêm khoảng cách dọc (padding) 1rem (16px) ở trên và dưới phần tử.
+border-b-[1px]: thêm đường viền dưới với độ dày 1 pixel.
+"use client": chỉ định rằng tệp này là một thành phần phía khách hàng trong Next.js.
+Nếu không có "use client";, bạn sẽ không thể dùng các hook như useState, useEffect hoặc các event handler trong component này.
+hidden md:block cursor-pointer: ẩn phần tử trên màn hình nhỏ và hiển thị trên màn hình lớn hơn, hiệu ứng con trỏ khi hover.
