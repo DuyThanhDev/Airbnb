@@ -98,7 +98,7 @@ const Modal: React.FC<ModalProps> = ({
                                         )}
                                         <Button label={actionLabel} onClick={handleSubmit} disabled={disabled} />
                                     </div>
-
+                                    {footer}
                                 </div>
                             </div>
                     </div>                    
