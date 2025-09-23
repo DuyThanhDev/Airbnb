@@ -18,3 +18,4 @@ transition: thêm hiệu ứng chuyển đổi mượt mà khi các thuộc tín
 Nếu dùng "...", bạn chỉ có thể viết chuỗi tĩnh, không chèn biến hoặc biểu thức động vào giữa chuỗi.
 Dùng `...${...}...`, bạn có thể chèn giá trị biến hoặc biểu thức vào chuỗi bằng cú pháp ${...}.
 
+Prisma: ORM (Object-Relational Mapping) giúp tương tác với cơ sở dữ liệu dễ dàng hơn trong ứng dụng Node.js/TypeScript.
