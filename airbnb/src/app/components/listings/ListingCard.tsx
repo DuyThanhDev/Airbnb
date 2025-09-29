@@ -1,4 +1,4 @@
-'use client'
+'use client';
 
 import useCountries from "@/app/hooks/useCountries";
 import { safeListings, safeReservation, SafeUser } from "@/app/types";
